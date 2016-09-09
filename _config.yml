@@ -1,19 +1,20 @@
 # --- Serving options --- #
 # If you are building a GitHub project page then use these settings:
 # url is the full website URL
-url: "http://uvic-econ.github.io/NCMTH107"
+url: "http://uvic-econ.github.io/econ457-fa16"
 # baseurl is the website's URL without the hostname
-baseurl: "/NCMTH107"
+baseurl: "/econ457-fa16"
 
 # Name of website
-title: NCMTH107
+title: econ457-fa16
 
 # Short description of your site
-description: Introductory Statistics at Northland College.
+description: ECON 457.
 
 # --- Navigation bar options --- #
 # Image to show in the navigation bar - image must be a square (width = height)
-avatar: "/img/MTH107Logo.jpg"
+avatar: 
+#"/img/MTH107Logo.jpg"
 navbar-links:
   Book: "book"
   Modules: "modules"
@@ -24,8 +25,8 @@ navbar-links:
 
 # --- Footer options --- #
 author:
-  name: Derek H. Ogle
-  email: "dogle@northland.edu"
+  name: Jon Duan
+  email: "jonduan@uvic.ca"
 
 # Select which links to show in the footer
 footer-links-active:
@@ -38,14 +39,14 @@ footer-links-active:
   stackoverflow: false
 
 # How to display the link to the website in the footer
-url-pretty: "derekogle.com/NCMTH107/"
+url-pretty: "http://uvic-econ.github.io/econ457-fa16"
 
 # --- Pagination options --- #
 paginate: 6
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 # Output options (more information on Jekyll's site)
-timezone: "America/Chicago"
+timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: Rouge
 permalink: /:year-:month-:day-:title
@@ -64,7 +65,7 @@ defaults:
       path: "" # all files
     values:
       layout: "page"
-      show-avatar: true
+      show-avatar: false  # change to false
 
 # Exclude these files from production site
 exclude:
