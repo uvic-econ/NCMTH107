@@ -26,27 +26,5 @@ css: /css/syllabus.css
   </div>
 </div>
 
----- 
 
-## Exam or Other Due Dates
-<dl class="dl-horizontal">
-<!---
--->
-<dt>7-Oct</dt><dd>First Exam</dd>
-<dt>19-Oct</dt><dd>First Exam XC Reflection (Optional)</dd>
-<dt>16-Nov</dt><dd>Second Exam</dd>
-<dt>28-Nov</dt><dd>Second Exam XC Reflection (Optional)</dd>
-<dt>9-Dec</dt><dd>"Stats-In-Use" and Project Extra Credit Reports (Optional)</dd>
-<dt>16-Dec</dt><dd>Final Exam</dd>
-</dl>
 
----- 
-
-## Cancelled Classes
-<dl class="dl-horizontal">
-<dt>17-Oct</dt><dd>NO CLASS (College Reading Day)</dd>
-<dt>23-Nov</dt><dd>NO CLASS (Thanksgiving Break)</dd>
-<dt>25-Nov</dt><dd>NO CLASS (Thanksgiving Break)</dd>
-<!---
---->
-</dl>
