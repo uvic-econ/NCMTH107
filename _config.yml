@@ -1,7 +1,7 @@
 # --- Serving options --- #
 # If you are building a GitHub project page then use these settings:
 # url is the full website URL
-url: "http://droglenc.github.io/NCMTH107"
+url: "http://uvic-econ.github.io/NCMTH107"
 # baseurl is the website's URL without the hostname
 baseurl: "/NCMTH107"
 
