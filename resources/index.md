@@ -4,7 +4,7 @@ title: Resources
 ---
 
 ## Administrative
-1. Feedback / Suggestions -- [Dr. Ogle](https://www.suggestionox.com/r/W16-107){:target="_blank"}
+1. Feedback / Suggestions  
 1. [**Quizzes**](quizzes/)
 1. [**Homework Answer Keys**](homework-keys/)
 1. [**Class Exercise Answer Keys**](ce-keys/)
@@ -17,7 +17,7 @@ title: Resources
 
 ## Computer
 1. **Data Files**
-    * [Specific to MTH107](data_107)
+    * [Specific to ECON457](data_457)
     * [Other files (on GitHub)](https://github.com/droglenc/NCData){:target="_blank"}
 1. **Software Installation Links**
     * R -- [Windows](http://derekogle.com/IFAR/supplements/installations/InstallRWin.html){:target="_blank"} / [Mac OS](http://derekogle.com/IFAR/supplements/installations/InstallRMac.html){:target="_blank"}
