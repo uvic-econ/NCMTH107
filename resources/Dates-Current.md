@@ -9,7 +9,7 @@ css: /css/syllabus.css
 <div class="container">
   <div class="row">
     <div class="col-sm-5">
-      <h4>Prof. Ogle's Section</h4>
+      <h4>Prof. Von Kooten</h4>
       <dl class="dl-horizontal">
       <dt>16-Sep</dt><dd>1.27-1.35</dd>
 <!---
@@ -17,7 +17,7 @@ css: /css/syllabus.css
       </dl>
     </div>
     <div class="col-sm-5">
-      <h4>Prof. Supanich's Section</h4>
+      <h4>Lab </h4>
       <dl class="dl-horizontal">
       </dl>
     </div>
